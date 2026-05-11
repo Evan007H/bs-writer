@@ -8,7 +8,7 @@
 
 ## 安装方式
 
-复制下面的链接，然后让 Codex 或 Claude Code 帮你安装这个 skill：
+复制下面的链接，然后让 Codex 或 Claude Code 帮你安装这个 skill（都什么年代还在自己配环境？）：
 
 ```text
 https://github.com/Evan007H/bs-writer
