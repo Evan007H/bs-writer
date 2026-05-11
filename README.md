@@ -4,7 +4,7 @@
 - 部分规范借鉴了humanizer-zh这个skill
 - 可以根据自己的实际需求修改`SKILL.md`中的内容
 - 本skill只负责规范ai的输出内容，它可以嵌入在任意工作流中，与其他skill配合使用。
-- 如果不使用codex等AI agent工具，也可以将SKILL.md中的内容作为提示词输入进对话框来规范AI的生成内容
+- 即使不使用codex等AI agent工具，也可以将SKILL.md中的内容作为提示词输入进对话框来规范AI的生成内容
 
 ## 安装方式
 
