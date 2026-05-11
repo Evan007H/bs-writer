@@ -26,11 +26,11 @@ https://github.com/Evan007H/bs-writer
 示例：
 
 ```text
-请根据论文大纲，使用$bs-writer这个skill，在latex模板上撰写小节1.1的正文。
+请根据论文大纲，使用$bs-writer，在latex模板上撰写小节1.1的正文。
 ```
 
 ```text
-请你使用`$bs-writer`这个skill重写下面这段文字：
+请你使用$bs-writer重写下面这段文字：
 
 [在这里粘贴需要重写的文字]
 ```
